@@ -6,7 +6,8 @@
   </a>
 </p>
 
-> application unique pour la création, le suivi et le
+> Application unique pour la création, le suivi et le
+reporting des tickets, accessible aux équipes internes comme aux clients.
 
 ## Author
 
@@ -16,10 +17,3 @@
 * Twitter: [@romain\_alcon](https://twitter.com/romain\_alcon)
 * Github: [@romainalcon](https://github.com/romainalcon)
 * LinkedIn: [@romain-alcon](https://linkedin.com/in/romain-alcon)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
